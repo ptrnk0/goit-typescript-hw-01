@@ -1,3 +1,3 @@
-type personArr = [string, number];
+type PersonArr = [string, number];
 
-let person: personArr = ["Max", 21];
+let person: PersonArr = ["Max", 21];
